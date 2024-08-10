@@ -1,0 +1,50 @@
+.information{
+font-weight: bold;
+font-size: 12px;
+text-align: center;
+}
+.firstsem{
+background-color: #539fea;
+font-weight: bold;
+text-align: center;
+height: 15px;
+color: #fff;
+
+}
+.toparea{
+padding: 5px;
+background-color: lightgray;
+font-weight: bold;
+text-align: center;
+}
+.courseblue{
+background-color: skyblue;
+}
+.courseyellow{
+background-color: yellow;
+}
+body{
+font-family: Tahoma;
+font-size: 12px;
+background-color: #f6f6f6;
+color: rgb(51, 51, 51);
+}
+table{
+border-collapse: collapse;
+border-bottom: 1px solid #999999;
+box-shadow: 1px 1px 3px -1px #000000;
+margin: 36px auto;
+}
+table td{
+text-align: center;
+padding: 10px;
+border-bottom: 1px solid #9c9c9c;
+border: 1px solid gray;
+border-collapse: collapse;
+}
+table tr{
+border-bottom: 1px solid #999999;
+box-sizing: border-box;
+}
+
+
